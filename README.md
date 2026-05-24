@@ -103,7 +103,7 @@ Press `K` at any time to switch to the next sound filter. The effect activates i
 The entire application is one file:
 
 ```
-music-player.html
+ARISTO MUSIC FLOOR.html
 ```
 
 HTML structure, CSS styles, and JavaScript logic are all embedded inline. The only external resources are two Google Fonts (Space Mono and Syne) loaded for typography — these fall back gracefully when offline.
