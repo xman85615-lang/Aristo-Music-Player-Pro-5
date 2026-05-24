@@ -1,2 +1,2 @@
 # Aristo-Music-Player-Pro
-An offline music player best for beginners
+An offline music player best for home use
