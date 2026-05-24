@@ -1,4 +1,4 @@
-# SONIQ — Offline Music Player
+# Aristo Music Player Pro
 
 > v1.0 · Single-file HTML App · No dependencies · Works 100% offline
 
