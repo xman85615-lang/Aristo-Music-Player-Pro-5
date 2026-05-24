@@ -110,4 +110,4 @@ HTML structure, CSS styles, and JavaScript logic are all embedded inline. The on
 
 ---
 
-*SONIQ Music Player · Built with Web Audio API · No rights reserved*
+*Aristo Music Player Pro · Built with Web Audio API · No rights reserved*
